@@ -1,5 +1,5 @@
 create table order_details(
-    id int,
+    id serial,
     customer_order_id int,
     product_id int,
     price decimal,
