@@ -1,4 +1,4 @@
 create table manufacturer(
-    id int,
+    id serial,
     name varchar(30)
 )

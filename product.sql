@@ -1,5 +1,5 @@
 create table product(
-    id int,
+    id serial,
     product_title_id int,
     manufacturer_id int,
     price decimal,
