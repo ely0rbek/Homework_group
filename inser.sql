@@ -28,3 +28,11 @@ values
 insert into product(product_title_id,manufacturer_id,price,comment)
 values
 (1,6,20000,'Olmalar')
+
+select * from product
+
+select * from order_details
+
+select * from manufacturer
+select * from product_category
+select * from product_title
