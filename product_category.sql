@@ -1,4 +1,4 @@
 create table Product_category(
-    id int,
-    name varchar(50)
+    id Int,
+    name Varchar(60)
 )
